@@ -1,9 +1,7 @@
 
-# Project Title
+# AI and ML for Cybersecurity – Midterm Exam
 
-AI and ML for Cybersecurity – Midterm Exam
-
-Finding the Correlation
+1. Finding the Correlation
 
 Student: Guram Lomidze
 Course: AI and ML for Cybersecurity
@@ -120,3 +118,16 @@ Ana
 No spam words, no links, minimal capitalization, and professional tone-Legitimate
 
 7. Visualizations (4 points)
+
+   
+Class Distribution Study
+
+![App Screenshot](https://github.com/GugaLomi/AI/blob/main/spam%20classify.png?raw=true)
+
+Confusion Matrix Heatmap
+![App Screenshot](https://github.com/GugaLomi/AI/blob/main/heatmap.png?raw=true)
+
+Feature Importance/Correlation 
+![App Screenshot](https://github.com/GugaLomi/AI/blob/main/importance.png?raw=true)
+
+
