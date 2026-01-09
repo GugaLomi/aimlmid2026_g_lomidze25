@@ -36,5 +36,5 @@ Result
 The calculated Pearson correlation coefficient is:  0.9964524195013089
 
 
-![Logo]([(https://github.com/GugaLomi/AI/blob/main/111111.png)]())
+![Logo]([(https://github.com/GugaLomi/AI/blob/main/111111.png)])
 
