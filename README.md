@@ -122,12 +122,15 @@ No spam words, no links, minimal capitalization, and professional tone-Legitimat
    
 Class Distribution Study
 
+
 ![App Screenshot](https://github.com/GugaLomi/AI/blob/main/spam%20classify.png?raw=true)
 
 Confusion Matrix Heatmap
+
 ![App Screenshot](https://github.com/GugaLomi/AI/blob/main/heatmap.png?raw=true)
 
 Feature Importance/Correlation 
+
 ![App Screenshot](https://github.com/GugaLomi/AI/blob/main/importance.png?raw=true)
 
 
