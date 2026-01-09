@@ -41,7 +41,7 @@ The calculated Pearson correlation coefficient is:  0.9964524195013089
 
 1. Dataset Upload (1 point)
 
-The dataset was uploaded to the repository.
+The dataset was uploaded to the repository. >>> https://github.com/GugaLomi/AI/blob/9ea5f2569278138cea59fda41a7f2af1e953abd3/g_lomidze25_63947.csv
 
 2. Logistic Regression Model (6 points total)
 2.1 Data Loading & Processing (2 points)
